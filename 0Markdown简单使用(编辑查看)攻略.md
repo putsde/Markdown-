@@ -9,7 +9,6 @@
    除了用软件查看，我还通过**浏览器插件**查看, 如[Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)<sup>ie浏览器</sup>及[MarkDown Preview Plus](https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl?utm_source=ext_sidebar&hl=zh-CN)<sup>chrome浏览器</sup>
 
 
-------------------------
 ## 使用visual studio code查看及编辑md文件
 ##### 1. 下载安装visual studio code
 * 百度搜索 visual studio code
@@ -37,7 +36,7 @@
       
    4. 在右上角有一个侧边预览(快捷键是ctrl+k v)
 
-------------------------------
+
 
 ## 使用浏览器插件查看md文件
    ##### 1. 设置程序: 在浏览器中打开插件管理, 允许文件访问url打钩
@@ -51,7 +50,6 @@
        ![Alt text](image.png)
    ##### 2. 使用: 将md文件拖拽到浏览器, 或者用浏览器打开,就能查看文件
 
-------------
 
 ## 使用其他软件查看及编辑文件: 如有道云笔记或者直接在github里查看
    ##### 使用有道云笔记创建并查看一个文件
