@@ -30,14 +30,11 @@ https://az764295.vo.msecnd.net/stable/f1b07bd25dfad64b0167beb15359ae573aecd2cc/V
 2. 遵循语法编辑文件并保存
    例如下方
    ```javascript copy
-const copyMe = true
-```
-         ```
          #今天的安排
          /<li>起床</li>
          /<li>吃饭</li>
          /<li>玩游戏</li>
-         ```
+    ```
 
 4. 在右上角有一个侧边预览(快捷键是ctrl+k v)
 
