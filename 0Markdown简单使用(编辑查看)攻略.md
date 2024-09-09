@@ -12,19 +12,19 @@
 ------------------------
 ## 使用visual studio code查看及编辑md文件
    ##### 1. 下载安装visual studio code
-      1. 百度搜索 visual studio code
-      2. 后面找到[下载](https://code.visualstudio.com/Download)
+1. 百度搜索 visual studio code
+2. 后面找到[下载](https://code.visualstudio.com/Download)
       其实也就是下面这个链接
       https://az764295.vo.msecnd.net/stable/f1b07bd25dfad64b0167beb15359ae573aecd2cc/VSCodeUserSetup-x64-1.83.1.exe
-      3. 安装程序
+3. 安装程序
    ##### 2. 在visual studio code安装插件
-      1. 安装中文插件(按下“**Ctrl+Shift+P**”组合键以显示“命令面板”，然后键入“**display**”以筛选并显示“**Configure Display Language**”命令。按“**Enter**”)
-      2. 安装插件
-         打开后找到四个格子的图标, 也就是插件, 搜索Markdown 找到下面两个插件, 点安装
-         1. **Markdown** Preview Enhanced
-         2. **Markdown** All in One
+   1. 安装中文插件(按下“**Ctrl+Shift+P**”组合键以显示“命令面板”，然后键入“**display**”以筛选并显示“**Configure Display Language**”命令。按“**Enter**”)
+   2. 安装插件
+      打开后找到四个格子的图标, 也就是插件, 搜索Markdown 找到下面两个插件, 点安装
+      1. **Markdown** Preview Enhanced
+      2. **Markdown** All in One
       
-   ##### 3. 用：使用visual studio code 编辑并查看一个文件
+##### 3. 用：使用visual studio code 编辑并查看一个文件
       
    1. 新建一个文件, 以md为后缀
    2. 遵循语法编辑文件并保存
