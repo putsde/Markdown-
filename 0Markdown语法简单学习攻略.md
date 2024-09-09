@@ -26,7 +26,7 @@
 |16|链接|推荐|常用|公式|\[名称]\(链接)||例|\[idea]\(https://www.jetbrains.com/zh-cn/idea/)||
 |17|图片|推荐||公式|\![图片]\(图片链接)|如果在vs中,可以先打开图片,然后复制,就能复制代码|例|\![图片]\(E:\1ee\图片\IMG_4751.JPG)||
 |17|图片|推荐||html标签|\<img src="*" style="zoom:33%;" />|可以插入本地图片|例|\<img src="https://img1.baidu.com/it/u=1458656822,2078909008&fm=253" title="图片" style=zoom:33%;>||
-|18|视频|推荐||html 标签|\<vedio controls src="*" type=video/mp4>\</vedio>||例| \<video width=320 height=240 controls type=video/mp4 src="https://vd4.bdstatic.com/mda-ijuq2izj9jhzcq88/sc/mda-ijuq2izj9jhzcq88.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1698407848-0-0-e52fc71f19cb8cd9d1860c5ffa21f866&bcevod_channel=searchbox_feed&pd=1&cr=2&cd=0&pt=3&logid=3447912968&vid=14434717150609131785&klogid=3447912968&abtest=112345_1-112751_4" >\</vedio>||
+|18|视频|推荐||html 标签|\<vedio controls src="*" type=video/mp4>\</vedio>||例| \<video width=320 height=240 controls type=video/mp4 src="https://www.bilibili.com/video/BV1Vg4y1Q7HT/?spm_id_from=333.999.0.0" >\</vedio>||
 |19|表格(不支持)|不推荐||包围|左对齐 :--- 居中对齐 :---: 右边对齐 ---:||因为md文档不支持嵌套表格,所以注意删除后面的"换行"两字并换行例|\|序号\|姓名\|性别\|换行\|----\|----\|:---\|换行\|1\|小红\|女\|换行\|2\|小白\|女\|换行|
 |20|emoji(不支持)|不推荐||公式|(很多)|(有斜杠请删除)|例|\: sweat_smile||
 |21|高亮(基本上不支持)|不推荐||包围|\==|(有斜杠请删除)|例|\=高亮\=||
