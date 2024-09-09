@@ -196,7 +196,7 @@
     ![图片](c:\1\图片\IMG_1.JPG)
     <img src="https://img1.baidu.com/it/u=1458656822,2078909008&fm=253" title="图片" style=zoom:33%;>
     ```
-    ![换行图片](换行.JPG)
+    ![换行图片](换行.jpg)
     ![随便插入图片](image.png)
     <img src="https://img1.baidu.com/it/u=1458656822,2078909008&fm=253" title="图片" style=zoom:33%;>
 ---
