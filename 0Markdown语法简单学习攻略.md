@@ -37,7 +37,7 @@
 git md文档官方文档https://docs.github.com/zh/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs
 使用\<br>标签换行<br>
 在内容前加空格会变成代码<br>
-使用反斜杠来转义\\<br>
+使用```来转义，在代码里的都是可看见的<br>
 使用下方代码可以复制
 const copyMe = true
 ···
