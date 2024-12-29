@@ -2,7 +2,7 @@
     <h1>Markdown简单使用使用攻略</h1>
 	<div>本篇内容：了解带有排版格式的文本文件MD文件、下载安装visual studio code、并利用vsc编辑、查看MD文件。</div>
     <br/>
-        <a>no English</a>|<a href="https://github.com/putsde/Markdown-/blob/main/0Markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8(%E7%BC%96%E8%BE%91%E6%9F%A5%E7%9C%8B)%E6%94%BB%E7%95%A5.md">中文文档</a>
+        <a>No English</a>|<a href="https://github.com/putsde/Markdown-/blob/main/0Markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8(%E7%BC%96%E8%BE%91%E6%9F%A5%E7%9C%8B)%E6%94%BB%E7%95%A5.md">中文文档</a>
     <br/>
 </div>
 
@@ -54,6 +54,7 @@ md文档，比txt多了格式排版，显得易观察，还具备超链接功能
             Markdown All in One
             ```      
 <br></br>
+
 3. #### 使用visual studio code 编辑并查看一个文件   
    1. 新建一个文件, 以md为后缀
    2. 遵循语法编辑文件并保存
