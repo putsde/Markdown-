@@ -1,6 +1,6 @@
 # Markdown简单使用使用攻略
-
-   # 1. Markdown是什么？
+本篇内容：了解带有排版格式的文本文件MD文件、下载安装visual studio code、并利用vsc编辑、查看MD文件。
+   ##  Markdown是什么？
    
 Markdown是略带排版的文本。如txt文本后缀是.txt，而md文本的文件名后缀是md。
 md文档，比txt多了格式排版，显得易观察，还具备超链接功能，能查看图片、视频，类似html文件，但比HTML文件简洁一点点，偏内容编辑。
@@ -16,7 +16,7 @@ md文档，比txt多了格式排版，显得易观察，还具备超链接功能
 会将md文档解析翻译为带格式的文件，带有放大标题的效果。
 <h></h>
 <br></br>
-# 2. 查看和编辑md文件
+
 我以前用免费的
 [**typro**](https://typoraio.cn), 刚刚下载了
 [**simplennote**](https://apps.microsoft.com/detail/9NXQQ40LDW3X?hl=en-us&gl=US), 但我发现网连不上后又用了
@@ -25,34 +25,32 @@ md文档，比txt多了格式排版，显得易观察，还具备超链接功能
 所以，推荐使用[**visual studio code**](https://visualstudio.microsoft.com/zh-hans/free-developer-offers/)编辑查看。
 <br></br>
 ## 使用visual studio code查看及编辑md文件
-##### 1. 下载安装visual studio code
-* 百度搜索 [**visual studio code**](https://visualstudio.microsoft.com/zh-hans/free-developer-offers/)
-+ 后面找到[下载](https://code.visualstudio.com/Download)
-      其实也就是下面这个链接（2024年的1.96.2版本）
-    ```javascript copy
-    https://code.visualstudio.com/docs/?dv=win64usere
-    ```      
-- 安装程序
+1. #### 下载安装visual studio code
+    * 百度搜索 [**visual studio code**](https://visualstudio.microsoft.com/zh-hans/free-developer-offers/)
+    + 后面找到[下载](https://code.visualstudio.com/Download)
+        其实也就是下面这个链接（2024年的1.96.2版本）
+        ```javascript copy
+        https://code.visualstudio.com/docs/?dv=win64usere
+        ```      
+    - 安装程序
 <br></br>
-##### 2. 在visual studio code安装插件
+2. #### 在visual studio code安装插件
    + 安装中文插件(按下“**Ctrl+Shift+P**”组合键以显示“命令面板”，然后键入“**display**”以筛选并显示“**Configure Display Language**”命令。按“**Enter**”)
    - 安装插件
       打开后找到四个格子的图标, 也就是插件, 搜索Markdown 找到下面两个插件, 点安装
       1. **Markdown** Preview Enhanced
       2. **Markdown** All in One
 <br></br>
-##### 3. 使用visual studio code 编辑并查看一个文件
-      
+3. #### 使用visual studio code 编辑并查看一个文件   
    1. 新建一个文件, 以md为后缀
    2. 遵循语法编辑文件并保存
          例如下方
-         ```javascript copy
-      
-               #今天的安排
-               <li>起床</li>
-               <li>吃饭</li>
-               <li>玩游戏</li>
-      ```
+        ```javascript copy
+        #今天的安排
+            <li>起床</li>
+            <li>吃饭</li>
+            <li>玩游戏</li>
+        ```
    3. 在右上角有一个侧边预览(快捷键是ctrl+k v)
 <br></br>
 ###   这样成功创建、编辑、查看了MD文件，就是这文档的操作部分了，后面是一些补充。
