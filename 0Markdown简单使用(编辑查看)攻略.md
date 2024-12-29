@@ -59,8 +59,9 @@
 
 ##复制的语法
  javascript copy
+ ```
   ```javascript copy
- \`\`\`javascript copy
+ ```
 ----------------
 *平时多用tab键让页面更清爽*
 *攻略完成时间20231027*
