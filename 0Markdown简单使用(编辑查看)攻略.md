@@ -1,13 +1,19 @@
-# Markdown简单使用使用攻略
-本篇内容：了解带有排版格式的文本文件MD文件、下载安装visual studio code、并利用vsc编辑、查看MD文件。
+
+<div class="title" align=center>
+    <h1>Markdown简单使用使用攻略</h1>
+	<div>本篇内容：了解带有排版格式的文本文件MD文件、下载安装visual studio code、并利用vsc编辑、查看MD文件。</div>
+    <br/>
+        <a>并没有English</a>|<a href="hhttps://github.com/putsde/Markdown-/blob/main/0Markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8(%E7%BC%96%E8%BE%91%E6%9F%A5%E7%9C%8B)%E6%94%BB%E7%95%A5.md">中文文档</a>
+    <br/>
+</div>
+
 ##  Markdown是什么？
-   Markdown是略带排版的文本。如txt文本后缀是.txt，而md文本的文件名后缀是md。
++ Markdown是略带排版的文本。如txt文本后缀是.txt，而md文本的文件名后缀是md。
 md文档，比txt多了格式排版，显得易观察，还具备超链接功能，能查看图片、视频，类似html文件，但比HTML文件简洁一点点，偏内容编辑。
 一般掌握“# ”和序列“1. ”即可编辑文档。
-   
-现在你所看到的就是md文件。
++ 现在你所看到的就是md文件。
 
-新建一个txt文档，把后缀txt改成md即可。
++ 新建一个txt文档，把后缀txt改成md即可。
 倘若你在文本内加一个# 文本，一些软件（例如
 [**typro**](https://typoraio.cn)及
 [**simplennote**](https://apps.microsoft.com/detail/9NXQQ40LDW3X?hl=en-us&gl=US)和
@@ -16,7 +22,7 @@ md文档，比txt多了格式排版，显得易观察，还具备超链接功能
 <h></h>
 <br></br>
 
-我以前用免费的
+* 我以前用免费的
 [**typro**](https://typoraio.cn), 刚刚下载了
 [**simplennote**](https://apps.microsoft.com/detail/9NXQQ40LDW3X?hl=en-us&gl=US), 但我发现网连不上后又用了
 <a href =https://note.youdao.com style="color:red">有道云笔记</a> 之后我选择通过
@@ -49,7 +55,6 @@ md文档，比txt多了格式排版，显得易观察，还具备超链接功能
             Markdown All in One
             ```      
 <br></br>
-
 3. #### 使用visual studio code 编辑并查看一个文件   
    1. 新建一个文件, 以md为后缀
    2. 遵循语法编辑文件并保存
@@ -82,7 +87,7 @@ md文档，比txt多了格式排版，显得易观察，还具备超链接功能
 
 
 
- 2. ### 使用edge浏览器插件查看md文件
+ 2. ### 使用浏览器插件查看md文件
     1. #### 设置程序: 在浏览器中打开插件管理, 允许文件访问url打钩
         1. 复制下方代码
             ```
@@ -105,11 +110,10 @@ md文档，比txt多了格式排版，显得易观察，还具备超链接功能
 
 
 ----------------
-`平时多用换行<br></br>、tab键、<p>段落标签可以让页面更清爽`<br>
-md官方文档:https://markdown.com.cn/basic-syntax/<br>
-git md文档官方文档 https://docs.github.com/zh/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs<br>
-*攻略完成时间20231027*<br>
-*第二次攻略完成时间20231208;增加乱码的代码*<br>
-*第三次攻略完成时间20240909;增加javascript copy代码 就可以复制*<br>
++ `平时多用换行<br></br>、tab键、<p>段落标签可以让页面更清爽`<br>
++ md官方文档:https://markdown.com.cn/basic-syntax/<br>
++ git md文档官方文档 https://docs.github.com/zh/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs<br>
++ *攻略完成时间20231027*<br>
++ *第二次攻略完成时间20231208;增加乱码的代码*<br>
++ *第三次攻略完成时间20240909;增加javascript copy代码 就可以复制*<br>
 <!-- <meta charset="UTF-8" -->
-
