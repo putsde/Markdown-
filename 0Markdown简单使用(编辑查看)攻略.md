@@ -57,10 +57,13 @@
    2. 编辑 保存
    3. 右上角模式切换成**预览模式**
 
-
+##复制的语法
+ javascript copy
+  ```javascript copy
+ \`\`\`javascript copy
 ----------------
 *平时多用tab键让页面更清爽*
 *攻略完成时间20231027*
 *第二次攻略完成时间20231208;增加乱码的代码*
-*第三次攻略完成时间20240909;增加javascript copy代码*
+*第三次攻略完成时间20240909;增加javascript copy代码 就可以复制*
 <!-- <meta charset="UTF-8" -->
