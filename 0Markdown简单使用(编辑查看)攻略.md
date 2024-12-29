@@ -1,9 +1,8 @@
-
 <div class="title" align=center>
     <h1>Markdown简单使用使用攻略</h1>
 	<div>本篇内容：了解带有排版格式的文本文件MD文件、下载安装visual studio code、并利用vsc编辑、查看MD文件。</div>
     <br/>
-        <a>并没有English</a>|<a href="hhttps://github.com/putsde/Markdown-/blob/main/0Markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8(%E7%BC%96%E8%BE%91%E6%9F%A5%E7%9C%8B)%E6%94%BB%E7%95%A5.md">中文文档</a>
+        <a>no English</a>|<a href="https://github.com/putsde/Markdown-/blob/main/0Markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8(%E7%BC%96%E8%BE%91%E6%9F%A5%E7%9C%8B)%E6%94%BB%E7%95%A5.md">中文文档</a>
     <br/>
 </div>
 
