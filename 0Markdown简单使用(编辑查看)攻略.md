@@ -1,5 +1,5 @@
 # Markdown简单使用使用攻略
-本篇内容：了解带有排版格式的文本文件MD文件、下载安装visual studio code、并利用vsc编辑、查看MD文件。
+    本篇内容：了解带有排版格式的文本文件MD文件、下载安装visual studio code、并利用vsc编辑、查看MD文件。
 ##  Markdown是什么？
    Markdown是略带排版的文本。如txt文本后缀是.txt，而md文本的文件名后缀是md。
 md文档，比txt多了格式排版，显得易观察，还具备超链接功能，能查看图片、视频，类似html文件，但比HTML文件简洁一点点，偏内容编辑。
@@ -34,11 +34,20 @@ md文档，比txt多了格式排版，显得易观察，还具备超链接功能
     - 安装程序
 <br></br>
 2. #### 在visual studio code安装插件
-   + 安装中文插件(按下“**Ctrl+Shift+P**”组合键以显示“命令面板”，然后键入“**display**”以筛选并显示“**Configure Display Language**”命令。按“**Enter**”)
+   + 安装中文插件(按下“**Ctrl+Shift+P**”p组合键以显示“命令面板”，然后键入“**display**”以筛选并显示“**Configure Display Language**”命令。按“**Enter**”)
+        ```
+        Configure Display Language
+        ```
    - 安装插件
-      打开后找到四个格子的图标, 也就是插件, 搜索Markdown 找到下面两个插件, 点安装
+      打开后找到四个格子的图标, 也就是插件,快捷键是Ctrl + Shift + x，搜索Markdown 找到下面两个插件, 点安装
       1. **Markdown** Preview Enhanced
+            ```
+            Markdown Preview Enhanced
+            ```
       2. **Markdown** All in One
+            ```
+            Markdown All in One
+            ```      
 <br></br>
 3. #### 使用visual studio code 编辑并查看一个文件   
    1. 新建一个文件, 以md为后缀
@@ -95,10 +104,11 @@ md文档，比txt多了格式排版，显得易观察，还具备超链接功能
 
 
 ----------------
-`平时多用换行<br></br>、tab键、<p>段落标签可以让页面更清爽`
+`平时多用换行<br></br>、tab键、<p>段落标签可以让页面更清爽`<br>
 md官方文档:https://markdown.com.cn/basic-syntax/<br>
 git md文档官方文档 https://docs.github.com/zh/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs<br>
 *攻略完成时间20231027*<br>
 *第二次攻略完成时间20231208;增加乱码的代码*<br>
 *第三次攻略完成时间20240909;增加javascript copy代码 就可以复制*<br>
 <!-- <meta charset="UTF-8" -->
+
