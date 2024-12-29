@@ -1,5 +1,5 @@
 # Markdown简单使用使用攻略
-    本篇内容：了解带有排版格式的文本文件MD文件、下载安装visual studio code、并利用vsc编辑、查看MD文件。
+本篇内容：了解带有排版格式的文本文件MD文件、下载安装visual studio code、并利用vsc编辑、查看MD文件。
 ##  Markdown是什么？
    Markdown是略带排版的文本。如txt文本后缀是.txt，而md文本的文件名后缀是md。
 md文档，比txt多了格式排版，显得易观察，还具备超链接功能，能查看图片、视频，类似html文件，但比HTML文件简洁一点点，偏内容编辑。
